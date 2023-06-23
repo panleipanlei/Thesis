@@ -1,5 +1,5 @@
 # Thesis
-This repertory contain the metadata and code for the Master thesis
+This repertory contain the metadata and code for the Master thesis.
 
 ## 1. Event Annotation - General Metadata
 This is a spreadsheet of the general metadata for Event Annotation Dataset.
