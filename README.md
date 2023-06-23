@@ -10,5 +10,5 @@ This is the directory of the annotation metadata for Event Annotation Dataset. I
 ## 3. Alignarr Scriptbase Dataset
 This is the general metadata for Alignarr Scriptbase Dataset.
 
-## 4. Event Annotation
-This is the code to add new general and annotation metadata, and the code to create visualizations.
+## 4. Event Annotation Code
+This is the code to add new general and annotation metadata to Event Annotation Dataset, and the code to create visualizations.
